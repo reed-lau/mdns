@@ -1,5 +1,5 @@
 # mdns
-my dns used to report the raspberrypi ip
+my dns used to report the raspberrypi ip with multicast.
 
 
 add the following command to `/etc/rc.local` to report the ip at 1Hz.
